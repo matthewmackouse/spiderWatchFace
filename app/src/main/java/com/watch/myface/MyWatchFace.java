@@ -269,7 +269,7 @@ public class MyWatchFace extends CanvasWatchFaceService {
             } else {
                 mHourPaint.setColor(mWatchHandColor);
                 mMinutePaint.setColor(mWatchHandColor);
-                mSecondPaint.setColor(Color.BLUE); //change this to change hand colors!
+                mSecondPaint.setColor(Color.parseColor("#1F85DE")); //change this to change hand colors!
                 mTickAndCirclePaint.setColor(mWatchHandColor);
 
                 mHourPaint.setAntiAlias(true);
