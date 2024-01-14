@@ -135,6 +135,7 @@ public class MyWatchFace extends CanvasWatchFaceService {
 
             setWatchFaceStyle(new WatchFaceStyle.Builder(MyWatchFace.this)
                     .setAcceptsTapEvents(true)
+                    .setHideStatusBar(true)
                     .build());
 
             mCalendar = Calendar.getInstance();
