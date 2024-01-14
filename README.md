@@ -8,4 +8,8 @@ Battery life is pretty good, I'm able to get more than 16 hours with light use (
 
 Also this is done on Android Studio becuase the Tic Watch does not support the newer Wear OS watch face's software.
 
-Inspiration taken from the Apple Watch face design and this article https://hackaday.com/2022/06/27/developing-a-custom-wearos-watch-face/
+Thanks to WHISKEY_DELTA_6 for the image https://www.reddit.com/r/Spiderman/comments/7ob95g/put_this_together_for_my_phone_wallpaper/ 
+
+Inspiration for watch face style taken from the Apple Watch face design
+
+Help with the code from this article https://hackaday.com/2022/06/27/developing-a-custom-wearos-watch-face/
